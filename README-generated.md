@@ -19,8 +19,6 @@ To use and app open command-line and write node index.js, then answer questions
 
 ## Usage
 For users who want to quickly generate high-quality README.md file for their project
-<br>
-A walkthrough video: [README-generator-video](https://watch.screencastify.com/v/vr9462hSKS2fB6YetIrd)
 
 ## Credits
 N/A
