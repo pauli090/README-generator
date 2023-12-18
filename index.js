@@ -31,9 +31,10 @@ const questions = [
         message: "List your collaborators"
     },
     {
-        type: "input",
-        name: "license",
-        message: "What license do you use for you application?"
+        type: 'list',
+        name: 'license',
+        message: 'Choose a license for your application:',
+        choices: ['MIT', 'Apache', 'GPL', 'None']
     },
     {
         type: "input",
